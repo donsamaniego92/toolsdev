@@ -1,0 +1,40 @@
+h1 {
+    ;
+    color: #ff0000;
+    font-size: 20px;
+}
+
+
+
+
+.buttons {
+    text-align: center;
+    
+   
+    padding:25px 0px 35px 0px ;
+}
+
+
+.button {
+   
+    
+   
+    text-align: center;
+    border: 1px solid #000000;
+    background: #3b8476;
+    padding: 20.5px 55px;
+    border-radius: 11px;
+    text-shadow: #7ea4bd 0 1px 0;
+    color: #000000;
+    font-size: 15px;
+    font-family: helvetica, serif;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+
+    
+    
+    
+
+
