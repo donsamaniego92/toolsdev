@@ -2,15 +2,18 @@
     width: 100%;
     top: 0;
     position: fixed;
+    background-color:#fff;
+    z-index:1;
+  
 }
+
+
 #texcon {
-    width: 100%;
-    height: 100%;
-    top: 50%;
-    bottom: 0;
-    position: fixed;
-    overflow-y: scroll;
-    overflow-x: hidden;
+    border:2px solid #ddd;
+    padding:15px;
+   margin:320px 0px 0px 0px;
+    
+ 
 }
 #nummenu {
     margin: auto;
@@ -31,6 +34,7 @@
     margin-top: 0%;
 }
 #why {
+   
     background-color: black;
     text-align: center;
     height: 35px;
