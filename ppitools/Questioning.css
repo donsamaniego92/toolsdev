@@ -10,9 +10,44 @@
 }
 
 #title {
-    
+   font-family: Verdana,serif;
+   height: 70px;
     margin:auto;
+    margin-bottom: 3%;
+    
 }
+
+#why {
+   background-color: black;
+    text-align: center; 
+    height: 35px;
+    display: block;
+    margin:auto;
+    margin-top:2%;
+    border:2px solid #ffffff;
+    border-radius: 20px;
+  
+}
+
+#cattext{
+    font-family: Verdana,serif;
+    color:#ffffff;
+    font-weight: bold;
+    margin-top:0%;
+}
+
+#text {}
+
+li {
+    background-color:#dcdcdc;
+    opacity:0.9;
+   font-family:Verdana, serif; 
+   text-align:center;
+    border :1px solid ;
+    border-radius: 5px;
+    
+}
+
 
 h1 {
     text-align: center; 
