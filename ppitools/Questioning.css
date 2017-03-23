@@ -1,4 +1,5 @@
 #fix {
+    margin:auto;
     width: 100%;
     top: 0;
     position: fixed;
@@ -9,7 +10,7 @@
 
 
 #texcon {
-    border:2px solid #ddd;
+    margin:auto;
     padding:15px;
    margin:320px 0px 0px 0px;
     
